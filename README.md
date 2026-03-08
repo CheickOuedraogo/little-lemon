@@ -14,3 +14,11 @@ Voici quelques captures d'écran de l'application illustrant la fonctionnalité 
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
+
+## Comment lancer
+```bash
+git clone https://github.com/CheickOuedraogo/little-lemon.git
+cd './little-lemon/'
+npm install
+npm run start
+```
